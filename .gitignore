@@ -17,3 +17,15 @@ local.properties
 app/.gitignore
 app/src/androidTest/
 app/src/test/
+common/src/androidTest/
+common/src/test/
+course/src/androidTest/
+course/src/test/
+home/src/androidTest/
+home/src/test/
+login/src/androidTest/
+login/src/test/
+mine/src/androidTest/
+mine/src/test/
+study/src/androidTest/
+study/src/test/
