@@ -29,3 +29,5 @@ mine/src/androidTest/
 mine/src/test/
 study/src/androidTest/
 study/src/test/
+service/src/androidTest/
+service/src/test/
