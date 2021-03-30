@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">cainiao</string>
+    <string name="login_module_name">登录模块</string>
+    <string name="str_server_host_dokit">切换host</string>
+
+    <string name="str_home">首页</string>
+    <string name="str_course">课程</string>
+    <string name="str_study">学习中心</string>
+    <string name="str_mine">我的</string>
+    <string name="str_login_or_register">登录/免费注册</string>
+
+</resources>
