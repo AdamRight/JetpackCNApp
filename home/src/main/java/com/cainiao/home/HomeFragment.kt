@@ -7,4 +7,7 @@ class HomeFragment : BaseFragment<FragmentHomeBinding>() {
 
     override fun getLayoutId() = R.layout.fragment_home
 
+    override fun initView() {
+        super.initView()
+    }
 }
